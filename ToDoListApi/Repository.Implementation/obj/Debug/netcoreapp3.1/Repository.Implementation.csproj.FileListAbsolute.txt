@@ -1,0 +1,15 @@
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.csprojAssemblyReference.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.AssemblyInfoInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.AssemblyInfo.cs
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Implementation.deps.json
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Implementation.runtimeconfig.json
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Implementation.runtimeconfig.dev.json
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Implementation.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Implementation.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\bin\Debug\netcoreapp3.1\Repository.Shared.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.csproj.CopyComplete
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Implementation\obj\Debug\netcoreapp3.1\Repository.Implementation.genruntimeconfig.cache

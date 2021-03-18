@@ -1,0 +1,14 @@
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Manager.Shared.deps.json
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Manager.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Manager.Shared.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Repository.Implementation.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Repository.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Repository.Implementation.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\bin\Debug\netcoreapp3.1\Repository.Shared.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.csprojAssemblyReference.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.AssemblyInfoInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.AssemblyInfo.cs
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.csproj.CopyComplete
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Manager.Shared\obj\Debug\netcoreapp3.1\Manager.Shared.pdb

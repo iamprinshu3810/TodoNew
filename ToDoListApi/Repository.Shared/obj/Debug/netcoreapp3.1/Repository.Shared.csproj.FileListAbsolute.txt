@@ -1,0 +1,9 @@
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\bin\Debug\netcoreapp3.1\Repository.Shared.deps.json
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\bin\Debug\netcoreapp3.1\Repository.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\bin\Debug\netcoreapp3.1\Repository.Shared.pdb
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.csprojAssemblyReference.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.AssemblyInfoInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.AssemblyInfo.cs
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.dll
+C:\Users\Priyanshu.Tiwari\source\repos\ToDoListApi\Repository.Shared\obj\Debug\netcoreapp3.1\Repository.Shared.pdb

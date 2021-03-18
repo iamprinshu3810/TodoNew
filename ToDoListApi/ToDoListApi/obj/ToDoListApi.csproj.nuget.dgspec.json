@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\ToDoListApi\\ToDoListApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\Manager.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\Manager.Implementation.csproj",
+        "projectName": "Manager.Implementation",
+        "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\Manager.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Priyanshu.Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priyanshu.Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj"
+              },
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj"
+              },
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj",
+        "projectName": "Manager.Shared",
+        "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj",
+        "packagesPath": "C:\\Users\\Priyanshu.Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priyanshu.Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj"
+              },
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj",
+        "projectName": "Repository.Implementation",
+        "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Priyanshu.Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priyanshu.Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj",
+        "projectName": "Repository.Shared",
+        "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\Repository.Shared.csproj",
+        "packagesPath": "C:\\Users\\Priyanshu.Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priyanshu.Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\ToDoListApi\\ToDoListApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\ToDoListApi\\ToDoListApi.csproj",
+        "projectName": "ToDoListApi",
+        "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\ToDoListApi\\ToDoListApi.csproj",
+        "packagesPath": "C:\\Users\\Priyanshu.Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\ToDoListApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priyanshu.Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\Manager.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Implementation\\Manager.Implementation.csproj"
+              },
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Manager.Shared\\Manager.Shared.csproj"
+              },
+              "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Priyanshu.Tiwari\\source\\repos\\ToDoListApi\\Repository.Implementation\\Repository.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
